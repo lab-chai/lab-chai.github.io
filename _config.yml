@@ -22,7 +22,7 @@ repository               : "lab-chai/lab-chai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "chai.png"
   name             : "Causality Healthcare and AI Lab"
   pronouns         : # example: "she/her"  
   bio              : "To make data-driven personalised healthcare a reality."
