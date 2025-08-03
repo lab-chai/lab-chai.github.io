@@ -1,3 +1,10 @@
+Of course. Based on the layout in the picture you provided, here is a template for your team.html page.
+
+This code uses simple Markdown and HTML tables to create a layout that is easy to edit and does not require complex theme modifications. You can copy and paste this directly into your team.html file.
+
+team.html Template
+HTML
+
 ---
 layout: archive
 title: "Team"
@@ -5,4 +12,60 @@ permalink: /team/
 author_profile: true
 ---
 
+{% include base_path %}
 
+## Principal Investigator
+
+<table style="border: none;">
+<tr style="border: none;">
+<td style="border: none; padding-right: 20px; vertical-align: top;">
+  <img src="{{ base_path }}/images/your-profile-pic.jpg" alt="photo of the PI" width="250">
+</td>
+<td style="border: none; vertical-align: top;">
+  <h3>Prof. [Your Full Name]</h3>
+  <p>
+    <b>[Your Title, e.g., Director, CHAI Lab]</b><br>
+    [A short paragraph describing your role, research interests, and the vision for the lab. You can include affiliations at the University and other key appointments here.]<br>
+    <br>
+    [ <a href="[LINK_TO_CV]">CV</a> | <a href="[LINK_TO_SCHOLAR_PROFILE]">Google Scholar</a> | <a href="[LINK_TO_ANYTHING_ELSE]">Additional Link</a> ]
+  </p>
+</td>
+</tr>
+</table>
+
+---
+
+## Lab Members
+
+You can create subsections for different roles as needed.
+
+### Postdoctoral Researchers
+
+<table style="width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="width: 50%; padding: 20px; border: none; vertical-align: top;">
+      <img src="{{ base_path }}/images/211.jpg" alt="PI" width="150"><br>
+      <b>Dr. Vinod Kumar Chauhan</b><br>
+      <i>Lecturer in Causal AI</i><br>
+      <a href="https://sites.google.com/site/jmdvinodjmd/">Homepage</a>
+    </td>
+  </tr>
+</table>
+
+### Team Members
+<table style="width: 100%; border: none;">
+  <tr style="border: none;">
+    <td style="width: 50%; padding: 20px; border: none; vertical-align: top;">
+      <img src="{{ base_path }}/images/member-photo-3.jpg" alt="photo of member 3" width="150"><br>
+      <b>[Member Name]</b><br>
+      <i>PhD Student</i><br>
+      <a href="[LINK_TO_MEMBER_3_PROFILE]">Homepage</a>
+    </td>
+    <td style="width: 50%; padding: 20px; border: none; vertical-align: top;">
+      <img src="{{ base_path }}/images/member-photo-4.jpg" alt="photo of member 4" width="150"><br>
+      <b>[Member Name]</b><br>
+      <i>PhD Student</i><br>
+      <a href="[LINK_TO_MEMBER_4_PROFILE]">Homepage</a>
+    </td>
+  </tr>
+</table>
