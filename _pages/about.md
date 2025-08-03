@@ -22,15 +22,14 @@ We focus on the intersection of causality, healthcare, and AI, drawing on a blen
 </ul>
 
 
-<h2>📢 Join Us</h2>
-We are looking for curious, motivated researchers and students to join us in building the future of causal AI for healthcare.
-
 <h2>📚 Recent Highlights</h2>
 <ul>
-    <li>I am co-editing a special issue (research topic) for the Frontiers in AI and Frontiers in Big Data journals: <a href="https://www.frontiersin.org/research-topics/73155/causal-ai-integrating-causality-and-machine-learning-for-robust-intelligent-systems">Causal AI: Integrating Causality and Machine Learning for Robust Intelligent Systems</li>
+    <li>I am co-editing a special issue (research topic) on <i>Causal AI</i> for the <a href="https://www.frontiersin.org/journals/artificial-intelligence">Frontiers in AI</a> and <a href="https://www.frontiersin.org/journals/big-data">Frontiers and in Big Data</a> journals: <a href="https://www.frontiersin.org/research-topics/73155/causal-ai-integrating-causality-and-machine-learning-for-robust-intelligent-systems">Causal AI: Integrating Causality and Machine Learning for Robust Intelligent Systems. <i>Manuscript Summary Submission Deadline 15 November 2025 | Manuscript Submission Deadline 27 February 2026</i></li>
+      
   <li>I chaired a session on "Tuning for patient-specific care" at the 47th IEEE EMBC 2025 and also presented a paper, "Individualised Treatment Effects Estimation with Composite Treatments and Composite Outcomes".</li>
-  <li>Deep Learning</li>
-  <li>Causal Foundation Models</li>
-  <li>Applications in Healthcare</li>
+
 </ul>
 
+
+<h2>📢 Join Us</h2>
+We are looking for curious, motivated researchers and students to join us in building the future of causal AI for healthcare.
