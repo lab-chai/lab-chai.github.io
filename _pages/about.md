@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "🧠 Welcome to Causality, Healthcare and AI (CHAI) Lab!"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
