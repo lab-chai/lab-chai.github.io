@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "Causality Healthcare and AI Lab"
+# title                    : "Causality Healthcare and AI Lab"
 title_separator          : "-"
 name                     : &name "CHAI Lab"
 description              : &description "On mission to make personalised treatments a reality"
