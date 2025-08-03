@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "default"
-# title                    : "Causality Healthcare and AI Lab"
+title                    : "Causality Healthcare and AI Lab"
 title_separator          : "-"
 name                     : &name "CHAI Lab"
 description              : &description "On mission to make personalised treatments a reality"
@@ -23,7 +23,7 @@ repository               : "lab-chai/lab-chai.github.io"
 author:
   # Biographic information
   avatar           : "chai.png"
-  name             : "Causality Healthcare and AI Lab"
+  # name             : "Causality Healthcare and AI Lab"
   pronouns         : # example: "she/her"  
   bio              : "To make data-driven personalised healthcare a reality."
   location         : "Glasgow, UK"
