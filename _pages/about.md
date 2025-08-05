@@ -14,7 +14,7 @@ Our mission is to make data-driven personalised healthcare a reality by uniting 
 <h2>🔍 Our Research Focus</h2>
 We focus on the intersection of causality, healthcare, and AI, drawing on a blend of theory and practice to solve real-world problems and make an impact in personalised healthcare in the long run. We consider any topic which aligns with our research focus, including but not limited to the following:
 <ul>
-  <li>Individualised Treatment Effect Estimation</li>
+  <li>Personalised Treatments - Individualised Treatment Effect Estimation</li>
   <li>Causal Inference</li>
   <li>Causal Discovery from Observational Data at Scale</li>
    <li>Counterfactual Fairness</li>
