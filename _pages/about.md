@@ -16,7 +16,16 @@ We focus on the intersection of causality, healthcare, and AI, drawing on a blen
 <ul>
   <li>Individualised Treatment Effect Estimation</li>
   <li>Causal Inference</li>
+  <li>Causal Discovery from Observational Data at Scale</li>
+   <li>Counterfactual Fairness</li>
+   <li>Counterfactual Explanations</li>
+   <li>Counterfactual Generation & Reasoning</li>
+   <li>Causal Benchmarking and Evaluation</li>
   <li>Deep Learning</li>
+  <li>Federated Learning</li>
+  <li>Continual Learning</li>
+  <li>Optimisation</li>
+  <li>Domain Adaptation and Out-of-distribution Detection</li>
   <li>Causal Foundation Models</li>
   <li>Applications in Healthcare</li>
 </ul>
