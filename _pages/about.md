@@ -47,6 +47,13 @@ We focus on the intersection of causality, healthcare, and AI, drawing on a blen
 <h2>📢 Join Us</h2>
 We are looking for curious, motivated researchers and students to join us in shaping the future of causal AI for healthcare.</p>
 
-<br>I am hiring a PhD student, please contact as soon as possible to have a chat.</br>
+<section id="phd-recruitment" aria-labelledby="phd-heading">
+  <h2 id="phd-heading">PhD Studentship Opportunity</h2>
+  <p>
+    I am recruiting a PhD student in <strong>Causal AI for personalised healthcare</strong>. If you are interested, please get in touch at your earliest convenience to arrange a discussion.
+  </p>
+  
+</section>
+
 
 
