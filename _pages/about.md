@@ -27,6 +27,7 @@ We focus on the intersection of causality, healthcare, and AI, drawing on a blen
   <li>Continual Learning</li>
   <li>Multimodal AI</li>
   <li>Optimisation</li>
+  <li>Digital Twins</li>
   <li>Domain Adaptation and Out-of-distribution Detection</li>
   <li>Causal Foundation Models</li>
   <li>Applications in Healthcare</li>
