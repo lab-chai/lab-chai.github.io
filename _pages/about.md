@@ -40,7 +40,7 @@ We focus on the intersection of causality, healthcare, and AI, drawing on a blen
 
 
 <h2>📢 Join Us</h2>
-We are looking for curious, motivated researchers and students to join us in shaping the future of causal AI for healthcare.</p>
+We are looking for curious, motivated researchers and students to join us in shaping the future of causal AI for healthcare.
 
 <section id="phd-recruitment" aria-labelledby="phd-heading">
   <h2 id="phd-heading">PhD Studentship Opportunity</h2>
