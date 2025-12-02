@@ -13,9 +13,9 @@ title                    : "Causal AI and Healthcare Lab"
 title_separator          : "-"
 name                     : &name "CHAI Lab"
 description              : &description "On mission to make personalised treatments a reality"
-url                      : https://lab-chai.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://CAIHLab.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lab-chai/lab-chai.github.io"
+repository               : "CAIHLab/CAIHLab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -52,14 +52,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "chailabofficial.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "CAIHLab.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "CHAILabOfficial"
+  instagram        : "CAIHLab"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -69,7 +69,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "CHAILabOfficial"
+  twitter          : "CAIHLab"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
